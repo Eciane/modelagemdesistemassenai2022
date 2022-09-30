@@ -1,0 +1,36 @@
+DOCUMENTO DE REQUISITOS 
+                                                                       MVP-ADM
+
+
+Identificação: 	RN001
+titulo	Contrato funcionário
+analista	Eciana Medeiros
+Data fonte	09/2022
+fonte	Eciana Medeiros (PROPRIETARIA)
+Descrição 	O funcionário deve apresentar currículo para a empresa e caso seja selecionado deve fazer um teste pratico de aptidão recebe o material de trabalho de acordo com cada função.  
+
+
+
+
+
+Identificação: 	RF001
+titulo	VENDA
+analista	Eciana Medeiros
+Data fonte	09/2022
+fonte	Eciana Medeiros (PROPRIETARIA)
+Descrição 	O sistema deve cadastrar currículo 
+
+
+
+
+
+Identificação: 	RNF001
+titulo:	VENDA
+analista	Eciana Medeiros
+Data fonte	09/2022
+fonte	Eciana Medeiros (PROPRIETARIA)
+Descrição 	Em caso de aprovação do funcionário o sistema notifica ele para ir fazer o exame admissional 
+
+
+
+
